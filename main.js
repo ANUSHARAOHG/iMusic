@@ -58,7 +58,7 @@ bookingButton.addEventListener("click", function (e) {
     count++
   }
   else{
-    alert("Limit reached")
+    alert("Limit reached!Sorry,there are no seats available at this time.")
   }
 });
 
